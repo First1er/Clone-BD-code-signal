@@ -59,5 +59,40 @@ Cahier de charge partiel CODE SIGNAL
 				% Le commentaire
 				% Les reponses
 
+------------------------------------------------- Daily challenge -----------------------------------------------
+ Ici est affiché la liste des challenges. Ils peuvent etre filtré par:
+- Statut(Public, Private)
+- Statuses (etat de l'exercice)
+- Difficulté
+- Types
 
+Chaque challenge est representé par 
+- Statut
+- Titre 
+- user
+- categorie
+---------------------------
+- Date
+- Nbre d'inscrit
+- Nbre de commentaire
+- Recompense 
+
+NB: L'interface du challenge est identique à celui l'arcade, à la difference du temps de resolution
+
+---------------------------------------------- Company challenge ---------------------------------------------------
+
+- Nom
+- Situation géographique
+- Type de l'entreprise 
+- Date de creation de l'entreprise 
+- Nbre d'employé
+- Domaine d'intervention
+- Medias
+- Description entreprise
+- Code challenge entreprise qui comporte :
+	+ Titre
+	+ Nbre de souscripteur
+	+ Recompense
+	+ Temps de resolution
+	+ Difficulté
 
