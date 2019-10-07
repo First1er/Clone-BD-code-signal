@@ -96,3 +96,74 @@ NB: L'interface du challenge est identique à celui l'arcade, à la difference d
 	+ Temps de resolution
 	+ Difficulté
 
+----------------------------- INTERVIEW PRATICE -----------------------
+
+Ici s'affiche des plan d'études(04 au total). Lorsqu'on clique sur un plan, il s'affiche des domaines précis et leurs liste de ....
+
+Lorsqu'on cli sur commencer, il s'affiche des contenus détaillé des categories
+
+Chaque exo commporte:`
+- titre 
+- Nbre de challenge 
+
+chaque test comporte
+- titre 
+- entreprise 
+- difficulté
+- temps d'exécution
+- nbres d'inscrit
+- nbre de commentaire
+- recompense
+
+------------------------------ Tournaments --------------------------
+
+On distingue trois onglets dont 
+- Regular
+- Marathon
+- Private
+
+Un bouton CREATE pour créer un exercice 
+
+plusieurs epreuves dont 
+- Nbre de participants
+- Chaque epreuve compte 5 exercices 
+- La durée de l'exo 
+- la recompense 
+- commentaire
+
+l'etat de l'exo(running / Fineshed)
+
+------------------------------ MY Profile --------------------------
+
+Le profile comporte 4 vues dont:
+
+- Overview qui contient
+	+ User information
+		% Fullname
+		% Username
+		% Image
+		% Email
+		% Level
+	+ Experiance
+	+ Education
+
+- Code friends
+- My tasks qui liste les exercices deja vu
+- Badges
+	+ Description
+	+ pourcentage
+	+ logo
+	+ Plusieurs type de badges
+
+------------------------------ MY Profile --------------------------
+
+Ici sont affichés les postes comportant
+ 
+- 	Nom du user
+- Photo
+- titre
+- Date de publication
+- reactions
+- Commentaires
+- categories
+
