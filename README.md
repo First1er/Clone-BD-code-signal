@@ -59,7 +59,7 @@ Cahier de charge partiel CODE SIGNAL
 				% Le commentaire
 				% Les reponses
 
-------------------------------------------------- Daily challenge -----------------------------------------------
+           	--------------------------- Daily challenge -----------------------------------
  Ici est affiché la liste des challenges. Ils peuvent etre filtré par:
 - Statut(Public, Private)
 - Statuses (etat de l'exercice)
@@ -79,7 +79,7 @@ Chaque challenge est representé par
 
 NB: L'interface du challenge est identique à celui l'arcade, à la difference du temps de resolution
 
----------------------------------------------- Company challenge ---------------------------------------------------
+		------------------------ Company challenge -----------------------------------
 
 - Nom
 - Situation géographique
@@ -96,7 +96,7 @@ NB: L'interface du challenge est identique à celui l'arcade, à la difference d
 	+ Temps de resolution
 	+ Difficulté
 
------------------------------ INTERVIEW PRATICE -----------------------
+			--------------------- INTERVIEW PRATICE -----------------------
 
 Ici s'affiche des plan d'études(04 au total). Lorsqu'on clique sur un plan, il s'affiche des domaines précis et leurs liste de ....
 
@@ -115,7 +115,7 @@ chaque test comporte
 - nbre de commentaire
 - recompense
 
------------------------------- Tournaments --------------------------
+			------------------------------ Tournaments --------------------------
 
 On distingue trois onglets dont 
 - Regular
@@ -133,7 +133,7 @@ plusieurs epreuves dont
 
 l'etat de l'exo(running / Fineshed)
 
------------------------------- MY Profile --------------------------
+			------------------------------ MY Profile --------------------------
 
 Le profile comporte 4 vues dont:
 
@@ -155,7 +155,7 @@ Le profile comporte 4 vues dont:
 	+ logo
 	+ Plusieurs type de badges
 
------------------------------- MY Profile --------------------------
+			------------------------------ FORUM --------------------------
 
 Ici sont affichés les postes comportant
  
